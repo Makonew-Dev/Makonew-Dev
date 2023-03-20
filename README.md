@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Makonew-Dev
-- 👀 I’m interested in GameDev and Full stack on websites
-- 🌱 I’m currently learning Unity C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email "makonew.dev@gmail.com" or Discord Makonew#5911
+Ryko i koko chuj ci w oko
 
 <!---
 Makonew-Dev/Makonew-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
